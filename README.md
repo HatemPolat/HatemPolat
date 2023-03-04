@@ -1,4 +1,4 @@
-# 👋 Hatem Polat
+# 👋 #Hi, I'm Hatem 
 
 ### 👨🏻‍💻 SoftSkills  
 **AGILE**
