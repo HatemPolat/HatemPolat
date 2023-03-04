@@ -1,6 +1,6 @@
 # 👋 Hatem Polat
 
-###  SoftSkills  
+### 👨🏻‍💻 SoftSkills  
 **AGILE**
 I learned the methodologies -(Scrum)- and processes. I am ready to join the software business life.
 Have analytical and conceptual thinking skills
