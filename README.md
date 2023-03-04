@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Hatem 
 
-### 👨🏻‍💻 SoftSkills  
+
+### 👨🏻‍💻 I'm Software Test Specialist 
+
+### About me⚡
+
 **AGILE**
 I learned the methodologies -(Scrum)- and processes. I am ready to join the software business life.
 Have analytical and conceptual thinking skills
