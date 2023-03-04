@@ -1,4 +1,4 @@
-# Hatem Polat
+# 👋 Hatem Polat
 
 ###  SoftSkills  
 **AGILE**
