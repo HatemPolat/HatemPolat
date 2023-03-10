@@ -5,8 +5,7 @@
 
 ### About me⚡
 
-**AGILE**
-I learned the methodologies -(Scrum)- and processes. I am ready to join the software business life.
+I learned ***Agile*** the methodologies -(Scrum)- and processes. I am ready to join the software business life.
 Have analytical and conceptual thinking skills
 Strong written and verbal communication skills
 I am a person who enjoys problem solving, is compatible with teamwork and pays attention to details.
