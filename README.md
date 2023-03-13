@@ -15,12 +15,12 @@ Ability to write ***test cases*** for ***functional*** and ***non-functional*** 
 
    # 🤠 
    
-* | ISTQB® Certified Software Manual & Automation Testing|
+* | **ISTQB® Certified Software Manual & Automation Testing**|
 
-* | JAVA || Selenium ||Selenium Web Driver|
+* | **JAVA** ||**Selenium** ||**Selenium Web Driver**|
 
-* | JUnit || TestNG || Cucumber BDD |JDBC |
+* | **JUnit** || **TestNG** || **Cucumber BDD** |**JDBC** |
 
-* | SQL |Postman| API || SDLC & STLC |
+* | **SQL** |**Postman**| **API** || **SDLC & STLC** |
 
-* | Git-GitHub || JIRA || Jenkins 
+* | **Git-GitHub** || **JIRA** ||**Jenkins** 
