@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hatem 
 
 
-### 👨🏻‍💻 I'm Software Test Specialist 
+### 👨🏻‍💻 I'm Software Test Engineer 
 
 ## About me⚡
 
