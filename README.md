@@ -13,7 +13,7 @@ Knowledge of  ***test methodologies*** and  ***Software Test Lifecycle*** ***(SD
 Ability to write ***test cases*** for ***functional*** and ***non-functional*** requirements
 
   
-  # 🤠 
+  # Technical
 * | **ISTQB® Certified Software Manual & Automation Testing**|
 
 * | **JAVA** ||**Selenium** ||**Selenium Web Driver**|
