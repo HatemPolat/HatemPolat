@@ -14,6 +14,7 @@ Ability to write ***test cases*** for ***functional*** and ***non-functional*** 
 
   
   # Technical
+  
 * | **ISTQB® Certified Software Manual & Automation Testing**|
 
 * | **JAVA** ||**Selenium** ||**Selenium Web Driver**|
