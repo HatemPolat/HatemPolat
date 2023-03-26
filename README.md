@@ -12,7 +12,7 @@ I am willing to follow, learn and apply new technologies, following the developm
 Knowledge of  ***test methodologies*** and  ***Software Test Lifecycle*** ***(SDLC&STLC)***
 Ability to write ***test cases*** for ***functional*** and ***non-functional*** requirements.
 
-**Superior communication and interpersonal skills.
+**Superior communication and interpersonal skills.**
 
 **Ability to work independently with minimal supervision**
 
