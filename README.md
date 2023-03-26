@@ -12,7 +12,7 @@ I am willing to follow, learn and apply new technologies, following the developm
 Knowledge of  ***test methodologies*** and  ***Software Test Lifecycle*** ***(SDLC&STLC)***
 Ability to write ***test cases*** for ***functional*** and ***non-functional*** requirements.
 
-**Superior communication and interpersonal skills.**
+<div class="tenor-gif-embed" data-postid="25348437" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/smiley-gif-25348437">Smiley GIF</a>from <a href="https://tenor.com/search/smiley-gifs">Smiley GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> **Superior communication and interpersonal skills.**
 
 **Ability to work independently with minimal supervision**
 
