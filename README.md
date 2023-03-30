@@ -30,4 +30,4 @@ Ability to write ***test cases*** for ***functional*** and ***non-functional*** 
 
 * | **Git-GitHub** || **JIRA** ||**Jenkins** 
 
-* | **APPIUM Learning...** 
+* | **APPIUM Learning
