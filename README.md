@@ -15,8 +15,6 @@ Ability to write ***test cases*** for ***functional*** and ***non-functional*** 
  **Superior communication and interpersonal skills.**
 
 **Ability to work independently with minimal supervision**
-
-
   
   # Technical
   
