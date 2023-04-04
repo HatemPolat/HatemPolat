@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 I'm Software Test Engineer 
 
 ## About me⚡
-
+  
 I learned ***Agile*** the methodologies -***(Scrum)***- and ***processes***. I am ready to join the software business life.
 Have ***analytical*** and ***conceptual*** thinking skills
 Strong ***written*** and verbal ***communication*** skills
