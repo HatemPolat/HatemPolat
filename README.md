@@ -9,7 +9,7 @@ Have ***analytical*** and ***conceptual*** thinking skills
 Strong ***:writing_hand:written*** and verbal ***communication*** skills
 I am a person who enjoys ***:writing_hand:problem solving***, is  ***compatible*** with  ***teamwork*** and  ***pays attention*** to details.
 I am willing to follow, learn and apply new technologies, following the developments in the field of business.
-Knowledge of  ***test methodologies*** and  ***Software Test Lifecycle*** ***(SDLC&STLC)***
+Knowledge of  ***test methodologies*** and  ♻️***Software Test Lifecycle*** ***(SDLC&STLC)***
 Ability to write ***test cases*** for ***functional*** and ***non-functional*** requirements.
 
  **:shamrock:Superior communication and interpersonal skills.**
