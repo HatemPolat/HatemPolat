@@ -27,7 +27,7 @@ Ability to write ***test cases*** for ***functional*** and ***non-functional*** 
 * | **SQL** |**Postman**| **API** || **SDLC & STLC** |
 
 * | **Git-GitHub** || **JIRA** ||**Jenkins** 
-* .md/assets/images/electrocat.png
+
  
  #LEARNING
  
