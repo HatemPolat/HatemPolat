@@ -6,8 +6,8 @@
   
 I learned ***Agile*** the methodologies -***(Scrum)***- and ***processes***. I am ready to join the software business life.
 Have ***analytical*** and ***conceptual*** thinking skills
-Strong ***written*** and verbal ***communication*** skills
-I am a person who enjoys ***problem solving***, is  ***compatible*** with  ***teamwork*** and  ***pays attention*** to details.
+Strong ***:writing_hand:written*** and verbal ***communication*** skills
+I am a person who enjoys ***:writing_hand:problem solving***, is  ***compatible*** with  ***teamwork*** and  ***pays attention*** to details.
 I am willing to follow, learn and apply new technologies, following the developments in the field of business.
 Knowledge of  ***test methodologies*** and  ***Software Test Lifecycle*** ***(SDLC&STLC)***
 Ability to write ***test cases*** for ***functional*** and ***non-functional*** requirements.
@@ -26,8 +26,7 @@ Ability to write ***test cases*** for ***functional*** and ***non-functional*** 
 
 * | **SQL** |**Postman**| **API** || **SDLC & STLC** |
 
-* | **Git-GitHub** || **JIRA** ||**Jenkins** 
-:writing_hand:
+* | **Git-GitHub** || **JIRA** ||**Jenkins**
  
  #LEARNING
  
