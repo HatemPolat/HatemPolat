@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hatem 
 
-### 👨🏻‍💻 I'm Software Test Engineer 
+### 👨🏻‍💻 I'm Software Test Engineer :coffee:
 
 ## About me⚡
   
@@ -18,15 +18,15 @@ Ability to write ***test cases*** for ***functional*** and ***non-functional*** 
   
   # Technical
   
-* | **ISTQB® Certified Software Manual & Automation Testing**|
+* :dart: | **ISTQB® Certified Software Manual & Automation Testing**|
 
-* | **JAVA** ||**Selenium** ||**Selenium Web Driver**|
+* :dart: | **JAVA** ||**Selenium** ||**Selenium Web Driver**|
 
-* | **JUnit** || **TestNG** || **Cucumber BDD** |**JDBC** |
+* :dart: | **JUnit** || **TestNG** || **Cucumber BDD** |**JDBC** |
 
-* | **SQL** |**Postman**| **API** || **SDLC & STLC** |
+* :dart: | **SQL** |**Postman**| **API** || **SDLC & STLC** |
 
-* | **Git-GitHub** || **JIRA** ||**Jenkins**
+* :dart: | **Git-GitHub** || **JIRA** ||**Jenkins**
  
  #LEARNING
  
