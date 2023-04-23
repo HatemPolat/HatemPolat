@@ -16,7 +16,7 @@ Ability to write ***test cases*** for ***functional*** and ***non-functional*** 
 
 **:shamrock:Ability to work independently with minimal supervision**
   
-  # Technical
+  # 	:arrow_right: Technical
   
 * :dart: | **ISTQB® Certified Software Manual & Automation Testing**|
 
@@ -28,7 +28,7 @@ Ability to write ***test cases*** for ***functional*** and ***non-functional*** 
 
 * :dart: | **Git-GitHub** || **JIRA** ||**Jenkins**
  
- #LEARNING
+ # 	:arrow_right: LEARNING
  
 * | **APPIUM**   ...........        Learning...
 * | **MySQL**      .........        Learning...
