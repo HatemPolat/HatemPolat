@@ -18,15 +18,15 @@ Ability to write ***test cases*** for :infinity:***functional*** and :arrow_righ
   
   # 	:arrow_right: Technical
   
-* :dart: | **ISTQB® Certified Software Manual & Automation Testing**|
+:heavy_check_mark:| **ISTQB® Certified Software Manual & Automation Testing**|
 
-* :dart: | **JAVA** ||**Selenium** ||**Selenium Web Driver**|
+:heavy_check_mark: | **JAVA** ||**Selenium** ||**Selenium Web Driver**|
 
-* :dart: | **JUnit** || **TestNG** || **Cucumber BDD** |**JDBC** |
+:heavy_check_mark: | **JUnit** || **TestNG** || **Cucumber BDD** |**JDBC** |
 
-* :dart: | **SQL** |**Postman**| **API** || **SDLC & STLC** |
+:heavy_check_mark: | **SQL** |**Postman**| **API** || **SDLC & STLC** |
 
-* :dart: | **Git-GitHub** || **JIRA** ||**Jenkins**
+:heavy_check_mark: | **Git-GitHub** || **JIRA** ||**Jenkins**
  
  # 	:arrow_right: LEARNING
  
