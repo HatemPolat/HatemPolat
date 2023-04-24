@@ -24,6 +24,8 @@ Ability to write ***test cases*** for :infinity:***functional*** and :arrow_righ
 
 :heavy_check_mark: | **JUnit** || **TestNG** || **Cucumber BDD** |**JDBC** |
 
+:heavy_check_mark: | **Cucumber-Selenide framework**
+
 :heavy_check_mark: | **SQL** |**Postman**| **API** || **SDLC & STLC** |
 
 :heavy_check_mark: | **Git-GitHub** || **JIRA** ||**Jenkins**
@@ -32,4 +34,4 @@ Ability to write ***test cases*** for :infinity:***functional*** and :arrow_righ
  
 * | **APPIUM**   ...........        Learning...
 * | **MySQL**      .........        Learning...
-* | **SelenideWithCucumber**....    Learning...
+
