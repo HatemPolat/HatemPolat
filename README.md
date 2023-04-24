@@ -16,7 +16,7 @@ Ability to write ***test cases*** for :infinity:***functional*** and :arrow_righ
 
 **:shamrock:Ability to work independently with minimal supervision**
   
-  # 	:arrow_right: Technical
+  # 	:arrow_right: Technical Skills
   
 :heavy_check_mark:| **ISTQB® Certified Software Manual & Automation Testing**|
 
