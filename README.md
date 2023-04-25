@@ -44,4 +44,4 @@ Ability to write ***test cases*** for :infinity:***functional*** and :arrow_righ
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HatemPolat&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatem&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
