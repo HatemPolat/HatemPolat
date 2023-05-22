@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 I'm Software Test Engineer :coffee:
 
 ## About me⚡ :hash:
-  
+ 
 I learned ***:shamrock:Agile*** the methodologies -***(Scrum)***- and ***processes***. 
 Have ***analytical*** and ***conceptual*** thinking skills
 Strong ***:writing_hand:written*** and verbal ***communication*** skills
