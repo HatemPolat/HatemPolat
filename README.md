@@ -41,7 +41,7 @@ Ability to write ***test cases*** for :infinity:***functional*** and :arrow_righ
 * | **APPIUM**   ...........        Learning...
 * | **MySQL**      .........        Learning...
 
-* # <h3 align="left">Languages and Tools:</h3>\
+* # <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/></code>
