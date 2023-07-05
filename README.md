@@ -22,7 +22,7 @@ Ability to write ***test cases*** for :infinity:***functional*** and :arrow_righ
 </p>
   
   # 	:arrow_right: Technical Skills
-  
+
 :heavy_check_mark:| **ISTQB® Certified Software Manual & Automation Testing**|
 
 :heavy_check_mark: | **JAVA** ||**Selenium** ||**Selenium Web Driver**|
